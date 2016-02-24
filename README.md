@@ -8,18 +8,19 @@ Javascript @ Barnard 2016
 **[Week 1](https://github.com/awdriggs-js/Spring_2016/tree/master/week1)**
 - Using the Terminal
 - Introduction to JS
+- HW: Simple Calculator
+
+**[Week 2](https://github.com/awdriggs-js/Spring_2016/tree/master/week2)**
+- While Loops
+- More Git
 - HW: Rock Paper Scissors
 
-**Week 2**
+**[Week 3](https://github.com/awdriggs-js/Spring_2016/tree/master/week3)**
 - Array Functions
-- String Functions
-- Writing your own functions
-- HW: Functions, Functions, Functions
-
-**Week 3**
+- For loops
 - Using Objects
 - Prototyping
-- HW: Hangman
+- HW: [Hangman](https://classroom.github.com/assignment-invitations/41cb3d432536a53850d98004b3395bf7)
 
 **Week 4**
 - Refresh on HTML/CSS ids and classes
